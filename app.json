@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c5e892a8-6bed-462e-af7a-09ee6069ca1d"
+      }
+    },
+    "owner": "fa22bscs0001",
+    "android": {
+      "package": "com.yourcompany.studentstudybuddy"
+    }
+  }
+}
